@@ -1,3 +1,8 @@
+-----
+
+![profile count](https://komarev.com/ghpvc/?username=prakarsh-dt&color=red)&nbsp;
+[![GitHub prakarsh-dt](https://img.shields.io/github/followers/prakarsh-dt?label=follow&style=social)](https://github.com/prakarsh-dt)&nbsp;
+
 <h1 align="center">Hi 👋, I'm Prakarsh</h1>
 <h3 align="center">A passionate frontend DevOps and Kubernetes Solutions Architect from India</h3>
 
